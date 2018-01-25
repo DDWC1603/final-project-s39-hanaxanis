@@ -53,7 +53,7 @@
 <i>** OR you can make your own unique narrative game.</i> 
 
 
-<h3>S4.Sorting Hat</h3>
+<h3>S5.Sorting Hat</h3>
 <p>5. A school teacher wanted to sort his/her 120 students in 4 separate houses(rumah sukan) so that each houses has a very balance students attributes innit. Help the teacher out to make his/her life easier.</p>
 <ul>
 <ol>a. --> the user(teacher) will be entering the students name with thier unique attributes</ol> 
