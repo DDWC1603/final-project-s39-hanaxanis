@@ -36,7 +36,7 @@ int main()
 		    cout<<"               2. CUSTOMER RECORDS"<<endl;
 		    cout<<"               3. BACK"<<endl<<endl;
 		    cout<<"               Enter your choice: ";
-			cin>>editChoice;
+		    cin>>editChoice;
 			  
 			if(editChoice==1)
 			{
